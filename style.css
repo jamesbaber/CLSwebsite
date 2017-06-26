@@ -1,0 +1,25 @@
+body {
+  background-image:url("background.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+
+  font-family: 'Roboto', sans-serif;
+  color: white;
+}
+
+p {
+  font-size: 130%;
+}
+
+h1 {
+  font-size: 400%;
+}
+
+.container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  position: fixed;
+  align-items: center;
+  justify-content: center;
+}
