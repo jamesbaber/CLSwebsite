@@ -37,3 +37,11 @@ a:hover {
 a:active {
     color: #7f8c8d;
 }
+
+
+html, body {
+  overflow-x: hidden;
+}
+body {
+  position: relative
+}
