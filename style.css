@@ -1,3 +1,7 @@
+html, body {
+  overflow: hidden;
+}
+
 body {
   background-image:url("background.jpg");
   background-repeat:no-repeat;
@@ -6,6 +10,8 @@ body {
 
   font-family: 'Roboto', sans-serif;
   color: white;
+
+  position: relative
 }
 
 p {
@@ -37,12 +43,4 @@ a:hover {
 }
 a:active {
     color: #7f8c8d;
-}
-
-
-html, body {
-  overflow-x: hidden;
-}
-body {
-  position: relative
 }
