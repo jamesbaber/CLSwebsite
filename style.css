@@ -23,3 +23,17 @@ h1 {
   align-items: center;
   justify-content: center;
 }
+
+
+a:link {
+    color: #ecf0f1;
+}
+a:visited {
+    color: #bdc3c7;
+}
+a:hover {
+    color: #95a5a6;
+}
+a:active {
+    color: #7f8c8d;
+}
