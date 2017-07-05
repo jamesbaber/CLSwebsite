@@ -1,5 +1,5 @@
 html, body {
-  overflow: hidden;
+  overflow-: hidden;
 }
 
 body {
@@ -30,7 +30,6 @@ h1 {
   align-items: center;
   justify-content: center;
 }
-
 
 a:link {
     color: #ecf0f1;
